@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="CineScrape Dashboard 是一個精美的電影爬蟲數據分析儀表板，提供多維度的搜尋、篩選、排序與圖表分析功能。">
+  <title>CineScrape Dashboard - 電影數據爬蟲分析儀表板</title>
+  
+  <!-- Google Fonts: Outfit & Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Chart.js for data visualization -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  
+  <!-- Background Glow Effects -->
+  <div class="bg-glow bg-glow-1" id="glow1"></div>
+  <div class="bg-glow bg-glow-2" id="glow2"></div>
+
+  <div class="app-container">
+    <!-- Header -->
+    <header class="main-header" id="mainHeader">
+      <div class="logo">
+        <i class="fa-solid fa-clapperboard logo-icon"></i>
+        <h1>CineScrape <span>Dashboard</span></h1>
+      </div>
+      <div class="header-actions">
+        <a href="movies.csv" download class="btn-download" id="downloadCsvBtn">
+          <i class="fa-solid fa-file-csv"></i> 下載 CSV 檔案
+        </a>
+      </div>
+    </header>
+
+    <!-- Main Hero Stats -->
+    <section class="stats-section" aria-label="數據統計區塊">
+      <div class="stat-card" id="statMovies">
+        <div class="stat-icon"><i class="fa-solid fa-film"></i></div>
+        <div class="stat-info">
+          <h3>總電影數量</h3>
+          <p class="stat-value" id="totalMoviesCount">0</p>
+        </div>
+      </div>
+      <div class="stat-card" id="statScore">
+        <div class="stat-icon"><i class="fa-solid fa-star"></i></div>
+        <div class="stat-info">
+          <h3>平均電影評分</h3>
+          <p class="stat-value" id="avgScoreValue">0.0</p>
+        </div>
+      </div>
+      <div class="stat-card" id="statRuntime">
+        <div class="stat-icon"><i class="fa-solid fa-clock"></i></div>
+        <div class="stat-info">
+          <h3>平均播放時間</h3>
+          <p class="stat-value" id="avgRuntimeValue">0 分鐘</p>
+        </div>
+      </div>
+      <div class="stat-card" id="statCategories">
+        <div class="stat-icon"><i class="fa-solid fa-tags"></i></div>
+        <div class="stat-info">
+          <h3>獨特分類數量</h3>
+          <p class="stat-value" id="uniqueCategoriesCount">0</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Content Grid Layout -->
+    <main class="content-grid">
+      
+      <!-- Left Column: Controls and Movie Cards -->
+      <section class="movies-column" aria-label="電影瀏覽區塊">
+        <!-- Control Panel -->
+        <div class="control-panel" id="controlPanel">
+          <div class="search-sort-row">
+            <div class="search-box">
+              <i class="fa-solid fa-magnifying-glass search-icon"></i>
+              <input type="text" id="searchInput" placeholder="搜尋片名、英文名...">
+            </div>
+            
+            <div class="sort-box">
+              <label for="sortBySelect"><i class="fa-solid fa-sort-down"></i> 排序方式：</label>
+              <select id="sortBySelect">
+                <option value="scoreDesc">評分：由高到低</option>
+                <option value="scoreAsc">評分：由低到高</option>
+                <option value="dateDesc">上映時間：最新到最舊</option>
+                <option value="dateAsc">上映時間：最舊到最新</option>
+                <option value="runtimeDesc">片長：最長到最短</option>
+                <option value="runtimeAsc">片長：最短到最長</option>
+              </select>
+            </div>
+          </div>
+
+          <!-- Dynamic Categories Filters -->
+          <div class="categories-filter" id="categoriesFilterContainer">
+            <span class="filter-label">分類篩選：</span>
+            <div class="filter-tags" id="filterTags">
+              <button class="tag-btn active" data-category="all" id="tagAllBtn">全部</button>
+              <!-- Dynamic category tags will go here -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Movie List Grid -->
+        <div class="movies-grid" id="moviesGrid">
+          <!-- Loading placeholder -->
+          <div class="loader-container" id="moviesLoader">
+            <div class="spinner"></div>
+            <p>載入電影資料中...</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Right Column: Visual Analytics -->
+      <aside class="analytics-column" aria-label="數據圖表分析區塊">
+        <!-- Category Distribution Chart Card -->
+        <div class="chart-card" id="chartCardCategories">
+          <h2><i class="fa-solid fa-chart-pie"></i> 電影類型分佈</h2>
+          <div class="chart-wrapper">
+            <canvas id="categoryChart"></canvas>
+          </div>
+        </div>
+
+        <!-- Score Distribution Chart Card -->
+        <div class="chart-card" id="chartCardScores">
+          <h2><i class="fa-solid fa-chart-bar"></i> 評分區間分佈</h2>
+          <div class="chart-wrapper">
+            <canvas id="scoreChart"></canvas>
+          </div>
+        </div>
+        
+        <!-- Region Distribution List Card -->
+        <div class="chart-card" id="regionStatsCard">
+          <h2><i class="fa-solid fa-globe"></i> 地區分佈排行</h2>
+          <div class="region-list" id="regionList">
+            <!-- Dynamic region statistics will go here -->
+          </div>
+        </div>
+      </aside>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="main-footer" id="mainFooter">
+      <p>&copy; 2026 CineScrape Dashboard. Data crawled from <a href="https://ssr1.scrape.center/" target="_blank">scrape.center</a>.</p>
+    </footer>
+  </div>
+
+  <!-- Floating Chat Button -->
+  <button class="chat-trigger-btn" id="chatTriggerBtn" title="開啟 AI 影音助理">
+    <i class="fa-solid fa-comments"></i>
+    <span class="chat-trigger-pulse"></span>
+  </button>
+
+  <!-- Chat Window Container -->
+  <div class="chat-window" id="chatWindow">
+    <div class="chat-header">
+      <div class="chat-bot-info">
+        <div class="chat-avatar-glow">
+          <i class="fa-solid fa-robot"></i>
+          <span class="online-indicator"></span>
+        </div>
+        <div>
+          <h4>CineScrape AI</h4>
+          <p>影音數據分析助理</p>
+        </div>
+      </div>
+      <div class="chat-actions">
+        <button id="chatbotSettingsBtn" title="設定 Gemini API Key"><i class="fa-solid fa-gear"></i></button>
+        <button id="chatbotCloseBtn" title="關閉"><i class="fa-solid fa-xmark"></i></button>
+      </div>
+    </div>
+    
+    <div class="chat-messages" id="chatMessages">
+      <div class="chat-msg bot">
+        <div class="msg-bubble">
+          哈囉！我是 CineScrape AI 影音智慧助理。👋 我已經熟記了這 100 部電影的資訊！
+          您可以問我推薦、篩選或有關資料庫的數據統計。
+          <br><br>
+          您可以試著輸入：
+          <br>💡 <i>「推薦適合週末看的 9.0 分以上愛情電影」</i>
+          <br>💡 <i>「找幾部片長在 100 分鐘內的喜劇片」</i>
+        </div>
+      </div>
+    </div>
+    
+    <div class="chat-input-area">
+      <textarea id="chatInput" placeholder="輸入訊息... (Enter 發送 / Shift+Enter 換行)"></textarea>
+      <button id="chatSendBtn" title="發送"><i class="fa-solid fa-paper-plane"></i></button>
+    </div>
+  </div>
+
+  <!-- API Key Settings Modal -->
+  <div class="api-key-modal" id="apiKeyModal">
+    <div class="modal-content">
+      <h3><i class="fa-solid fa-key"></i> 設定 Gemini API Key</h3>
+      <p>請輸入您的 Google Gemini API Key。金鑰僅會保存在本機瀏覽器的 <code>localStorage</code> 中，供 Chatbot 連線使用，不會外洩。</p>
+      
+      <div class="input-group">
+        <input type="password" id="apiKeyInput" placeholder="輸入 AIzaSy... 開頭的金鑰">
+        <button id="toggleApiKeyVisibility" title="顯示/隱藏"><i class="fa-solid fa-eye"></i></button>
+      </div>
+      
+      <div class="modal-buttons">
+        <button class="modal-btn cancel" id="apiKeyCancelBtn">取消</button>
+        <button class="modal-btn save" id="apiKeySaveBtn">儲存設定</button>
+      </div>
+      
+      <p class="api-key-tip">沒有金鑰？您可以前往 <a href="https://aistudio.google.com/" target="_blank">Google AI Studio</a> 免費申請一個。</p>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
