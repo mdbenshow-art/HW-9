@@ -2,7 +2,7 @@
   {
     "title": "霸王别姬 - Farewell My Concubine",
     "cover": "https://p0.meituan.net/movie/ce4da3e03e655b5b88ed31b5cd7896cf62472.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/霸王别姬 - Farewell My Concubine.jpg",
+    "local_cover": "covers/cover_1.jpg",
     "categories": [
       "剧情",
       "爱情"
@@ -18,7 +18,7 @@
   {
     "title": "这个杀手不太冷 - Léon",
     "cover": "https://p1.meituan.net/movie/6bea9af4524dfbd0b668eaa7e187c3df767253.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/这个杀手不太冷 - Léon.jpg",
+    "local_cover": "covers/cover_2.jpg",
     "categories": [
       "剧情",
       "动作",
@@ -34,7 +34,7 @@
   {
     "title": "肖申克的救赎 - The Shawshank Redemption",
     "cover": "https://p0.meituan.net/movie/283292171619cdfd5b240c8fd093f1eb255670.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/肖申克的救赎 - The Shawshank Redemption.jpg",
+    "local_cover": "covers/cover_3.jpg",
     "categories": [
       "剧情",
       "犯罪"
@@ -49,7 +49,7 @@
   {
     "title": "泰坦尼克号 - Titanic",
     "cover": "https://p1.meituan.net/movie/b607fba7513e7f15eab170aac1e1400d878112.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/泰坦尼克号 - Titanic.jpg",
+    "local_cover": "covers/cover_4.jpg",
     "categories": [
       "剧情",
       "爱情",
@@ -65,7 +65,7 @@
   {
     "title": "罗马假日 - Roman Holiday",
     "cover": "https://p0.meituan.net/movie/289f98ceaa8a0ae737d3dc01cd05ab052213631.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/罗马假日 - Roman Holiday.jpg",
+    "local_cover": "covers/cover_5.jpg",
     "categories": [
       "剧情",
       "喜剧",
@@ -81,7 +81,7 @@
   {
     "title": "唐伯虎点秋香 - Flirting Scholar",
     "cover": "https://p0.meituan.net/movie/da64660f82b98cdc1b8a3804e69609e041108.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/唐伯虎点秋香 - Flirting Scholar.jpg",
+    "local_cover": "covers/cover_6.jpg",
     "categories": [
       "喜剧",
       "爱情",
@@ -97,7 +97,7 @@
   {
     "title": "乱世佳人 - Gone with the Wind",
     "cover": "https://p0.meituan.net/movie/223c3e186db3ab4ea3bb14508c709400427933.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/乱世佳人 - Gone with the Wind.jpg",
+    "local_cover": "covers/cover_7.jpg",
     "categories": [
       "剧情",
       "爱情",
@@ -114,7 +114,7 @@
   {
     "title": "喜剧之王 - The King of Comedy",
     "cover": "https://p0.meituan.net/movie/1f0d671f6a37f9d7b015e4682b8b113e174332.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/喜剧之王 - The King of Comedy.jpg",
+    "local_cover": "covers/cover_8.jpg",
     "categories": [
       "剧情",
       "喜剧",
@@ -130,7 +130,7 @@
   {
     "title": "楚门的世界 - The Truman Show",
     "cover": "https://p0.meituan.net/movie/8959888ee0c399b0fe53a714bc8a5a17460048.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/楚门的世界 - The Truman Show.jpg",
+    "local_cover": "covers/cover_9.jpg",
     "categories": [
       "剧情",
       "科幻"
@@ -145,7 +145,7 @@
   {
     "title": "狮子王 - The Lion King",
     "cover": "https://p0.meituan.net/movie/27b76fe6cf3903f3d74963f70786001e1438406.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/狮子王 - The Lion King.jpg",
+    "local_cover": "covers/cover_10.jpg",
     "categories": [
       "动画",
       "歌舞",
@@ -161,7 +161,7 @@
   {
     "title": "V字仇杀队 - V for Vendetta",
     "cover": "https://p1.meituan.net/movie/06ec3c1c647942b1e40bca84036014e9490863.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/V字仇杀队 - V for Vendetta.jpg",
+    "local_cover": "covers/cover_11.jpg",
     "categories": [
       "剧情",
       "动作",
@@ -180,7 +180,7 @@
   {
     "title": "少年派的奇幻漂流 - Life of Pi",
     "cover": "https://p0.meituan.net/movie/34998e31c6d07475f1add6b8b16fd21d192579.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/少年派的奇幻漂流 - Life of Pi.jpg",
+    "local_cover": "covers/cover_12.jpg",
     "categories": [
       "剧情",
       "奇幻",
@@ -199,7 +199,7 @@
   {
     "title": "美丽心灵 - A Beautiful Mind",
     "cover": "https://p0.meituan.net/movie/7b7d1f8aa36d7a15463ce6942708a1a7265296.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/美丽心灵 - A Beautiful Mind.jpg",
+    "local_cover": "covers/cover_13.jpg",
     "categories": [
       "剧情",
       "传记"
@@ -214,7 +214,7 @@
   {
     "title": "初恋这件小事 - สิ่งเล็กเล็กที่เรียกว่า...รัก",
     "cover": "https://p1.meituan.net/movie/05bc2f0ccf97aacfa64fcac4f237cf8082385.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/初恋这件小事 - สิ่งเล็กเล็กที่เรียกว่า...รัก.jpg",
+    "local_cover": "covers/cover_14.jpg",
     "categories": [
       "喜剧",
       "爱情"
@@ -229,7 +229,7 @@
   {
     "title": "借东西的小人阿莉埃蒂 - 借りぐらしのアリエッティ",
     "cover": "https://p1.meituan.net/movie/640cc32445df972b066c9a04b194da141104515.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/借东西的小人阿莉埃蒂 - 借りぐらしのアリエッティ.jpg",
+    "local_cover": "covers/cover_15.jpg",
     "categories": [
       "动画",
       "奇幻",
@@ -245,7 +245,7 @@
   {
     "title": "一一 - Yi yi: A One and a Two",
     "cover": "https://p0.meituan.net/movie/6cb23356f9d8e0b506349561c633310d102189.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/一一 - Yi yi_ A One and a Two.jpg",
+    "local_cover": "covers/cover_16.jpg",
     "categories": [
       "剧情",
       "爱情",
@@ -262,7 +262,7 @@
   {
     "title": "美丽人生 - La vita è bella",
     "cover": "https://p1.meituan.net/movie/580d81a2c78bf204f45323ddb4244b6c6821175.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/美丽人生 - La vita è bella.jpg",
+    "local_cover": "covers/cover_17.jpg",
     "categories": [
       "战争",
       "剧情",
@@ -278,7 +278,7 @@
   {
     "title": "海上钢琴师 - La leggenda del pianista sull'oceano",
     "cover": "https://p0.meituan.net/movie/609e45bd40346eb8b927381be8fb27a61760914.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/海上钢琴师 - La leggenda del pianista sull'oceano.jpg",
+    "local_cover": "covers/cover_18.jpg",
     "categories": [
       "剧情",
       "爱情",
@@ -294,7 +294,7 @@
   {
     "title": "千与千寻 - 千と千尋の神隠し",
     "cover": "https://p0.meituan.net/movie/30b20139e68c46d02e0893277d633b701292458.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/千与千寻 - 千と千尋の神隠し.jpg",
+    "local_cover": "covers/cover_19.jpg",
     "categories": [
       "动画",
       "冒险",
@@ -311,7 +311,7 @@
   {
     "title": "迁徙的鸟 - The Travelling Birds",
     "cover": "https://p1.meituan.net/movie/a1634f4e49c8517ae0a3e4adcac6b0dc43994.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/迁徙的鸟 - The Travelling Birds.jpg",
+    "local_cover": "covers/cover_20.jpg",
     "categories": [
       "纪录片"
     ],
@@ -329,7 +329,7 @@
   {
     "title": "黄金三镖客 - Il buono, il brutto, il cattivo.",
     "cover": "https://p0.meituan.net/movie/cd18ed2c5cda9e71e17e5e6ef61ced172912303.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/黄金三镖客 - Il buono, il brutto, il cattivo..jpg",
+    "local_cover": "covers/cover_21.jpg",
     "categories": [
       "西部",
       "冒险"
@@ -346,7 +346,7 @@
   {
     "title": "海洋 - Océans",
     "cover": "https://p1.meituan.net/movie/a19a7f64a10e133b68de87d2f3bc46f3111417.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/海洋 - Océans.jpg",
+    "local_cover": "covers/cover_22.jpg",
     "categories": [
       "纪录片"
     ],
@@ -364,7 +364,7 @@
   {
     "title": "我爱你 - 그대를 사랑합니다",
     "cover": "https://p1.meituan.net/movie/ed50b58bf636d207c56989872a91f4cf305138.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/我爱你 - 그대를 사랑합니다.jpg",
+    "local_cover": "covers/cover_23.jpg",
     "categories": [
       "剧情",
       "爱情"
@@ -379,7 +379,7 @@
   {
     "title": "阿飞正传 - Days of Being Wild",
     "cover": "https://p0.meituan.net/movie/85215b28d568ea8e2c97766edd95f890210522.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/阿飞正传 - Days of Being Wild.jpg",
+    "local_cover": "covers/cover_24.jpg",
     "categories": [
       "剧情",
       "爱情",
@@ -395,7 +395,7 @@
   {
     "title": "7号房的礼物 - 7번방의 선물",
     "cover": "https://p1.meituan.net/movie/a53a0200eba15ba483c905c872db9bf4331099.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/7号房的礼物 - 7번방의 선물.jpg",
+    "local_cover": "covers/cover_25.jpg",
     "categories": [
       "剧情",
       "喜剧",
@@ -411,7 +411,7 @@
   {
     "title": "爱·回家 - 집으로...",
     "cover": "https://p0.meituan.net/movie/de1142a5dceb901eb939eb0bcfc2f88470909.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/爱·回家 - 집으로....jpg",
+    "local_cover": "covers/cover_26.jpg",
     "categories": [
       "剧情",
       "家庭"
@@ -426,7 +426,7 @@
   {
     "title": "龙猫 - となりのトトロ",
     "cover": "https://p0.meituan.net/movie/c304c687e287c7c2f9e22cf78257872d277201.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/龙猫 - となりのトトロ.jpg",
+    "local_cover": "covers/cover_27.jpg",
     "categories": [
       "动画",
       "冒险",
@@ -443,7 +443,7 @@
   {
     "title": "七武士 - 七人の侍",
     "cover": "https://p1.meituan.net/movie/4ffca83fd972f71e291f8ea8d78a4b58594878.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/七武士 - 七人の侍.jpg",
+    "local_cover": "covers/cover_28.jpg",
     "categories": [
       "剧情",
       "动作",
@@ -459,7 +459,7 @@
   {
     "title": "美国往事 - Once Upon a Time in America",
     "cover": "https://p1.meituan.net/movie/92198a6fc8c3f5d13aa1bdf203572c0f99438.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/美国往事 - Once Upon a Time in America.jpg",
+    "local_cover": "covers/cover_29.jpg",
     "categories": [
       "剧情",
       "犯罪"
@@ -475,7 +475,7 @@
   {
     "title": "完美的世界 - A Perfect World",
     "cover": "https://p1.meituan.net/movie/30310858fdab34c7a17cfd7ec8ad8bfc112201.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/完美的世界 - A Perfect World.jpg",
+    "local_cover": "covers/cover_30.jpg",
     "categories": [
       "剧情",
       "犯罪"
@@ -490,7 +490,7 @@
   {
     "title": "上帝之城 - Cidade de Deus",
     "cover": "https://p1.meituan.net/movie/b553d13f30100db731ab6cf45668e52d94703.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/上帝之城 - Cidade de Deus.jpg",
+    "local_cover": "covers/cover_31.jpg",
     "categories": [
       "剧情",
       "犯罪"
@@ -506,7 +506,7 @@
   {
     "title": "辩护人 - 변호인",
     "cover": "https://p0.meituan.net/movie/1433d81b10d116239dbbf02a06ac3c19265682.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/辩护人 - 변호인.jpg",
+    "local_cover": "covers/cover_32.jpg",
     "categories": [
       "剧情"
     ],
@@ -520,7 +520,7 @@
   {
     "title": "忠犬八公物语 - ハチ公物語",
     "cover": "https://p0.meituan.net/movie/2d42e00d7ee59ff5bd574f93b8558aa726665.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/忠犬八公物语 - ハチ公物語.jpg",
+    "local_cover": "covers/cover_33.jpg",
     "categories": [
       "剧情"
     ],
@@ -534,7 +534,7 @@
   {
     "title": "海豚湾 - The Cove",
     "cover": "https://p0.meituan.net/movie/eb2ea56996f21e7fb47b1a0736c7f177258901.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/海豚湾 - The Cove.jpg",
+    "local_cover": "covers/cover_34.jpg",
     "categories": [
       "纪录片"
     ],
@@ -548,7 +548,7 @@
   {
     "title": "英雄本色 - A Better Tomorrow",
     "cover": "https://p0.meituan.net/movie/3e5f5f3aa4b7e5576521e26c2c7c894d253975.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/英雄本色 - A Better Tomorrow.jpg",
+    "local_cover": "covers/cover_35.jpg",
     "categories": [
       "剧情",
       "动作",
@@ -564,7 +564,7 @@
   {
     "title": "恐怖直播 - 더 테러 라이브",
     "cover": "https://p0.meituan.net/movie/1da0af2570fe697d38c4a37fdfded19b254936.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/恐怖直播 - 더 테러 라이브.jpg",
+    "local_cover": "covers/cover_36.jpg",
     "categories": [
       "剧情",
       "悬疑",
@@ -580,7 +580,7 @@
   {
     "title": "窃听风暴 - Das Leben der Anderen",
     "cover": "https://p0.meituan.net/movie/3985eaf3858bea0f2a3d966bf7ee2103178217.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/窃听风暴 - Das Leben der Anderen.jpg",
+    "local_cover": "covers/cover_37.jpg",
     "categories": [
       "剧情",
       "悬疑"
@@ -595,7 +595,7 @@
   {
     "title": "时空恋旅人 - About Time",
     "cover": "https://p0.meituan.net/movie/6d8491386d07cda91967a6fbbd0d0788294693.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/时空恋旅人 - About Time.jpg",
+    "local_cover": "covers/cover_38.jpg",
     "categories": [
       "喜剧",
       "爱情",
@@ -611,7 +611,7 @@
   {
     "title": "穿条纹睡衣的男孩 - The Boy in the Striped Pajamas",
     "cover": "https://p1.meituan.net/movie/d5970e36c8868a4b746c80f3b3f8a404174615.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/穿条纹睡衣的男孩 - The Boy in the Striped Pajamas.jpg",
+    "local_cover": "covers/cover_39.jpg",
     "categories": [
       "剧情",
       "战争"
@@ -627,7 +627,7 @@
   {
     "title": "教父 - The Godfather",
     "cover": "https://p0.meituan.net/movie/1199dc6273680f175fd9b06c9c36d08a219658.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/教父 - The Godfather.jpg",
+    "local_cover": "covers/cover_40.jpg",
     "categories": [
       "剧情",
       "犯罪"
@@ -642,7 +642,7 @@
   {
     "title": "萤火之森 - 蛍火の杜へ",
     "cover": "https://p1.meituan.net/movie/4c55f3bf5fa9660db3cb7014651a0950267034.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/萤火之森 - 蛍火の杜へ.jpg",
+    "local_cover": "covers/cover_41.jpg",
     "categories": [
       "剧情",
       "爱情",
@@ -659,7 +659,7 @@
   {
     "title": "素媛 - 소원",
     "cover": "https://p0.meituan.net/movie/19653e8af59cf473cd40f9ccc0658d93692304.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/素媛 - 소원.jpg",
+    "local_cover": "covers/cover_42.jpg",
     "categories": [
       "剧情"
     ],
@@ -673,7 +673,7 @@
   {
     "title": "小鞋子 - بچههای آسمان",
     "cover": "https://p1.meituan.net/movie/135c612860fae899df2220149664d97a173555.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/小鞋子 - بچههای آسمان.jpg",
+    "local_cover": "covers/cover_43.jpg",
     "categories": [
       "剧情",
       "家庭"
@@ -688,7 +688,7 @@
   {
     "title": "熔炉 - 도가니",
     "cover": "https://p1.meituan.net/movie/2a0783b4fd95566568f24adfad2181bb5392280.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/熔炉 - 도가니.jpg",
+    "local_cover": "covers/cover_44.jpg",
     "categories": [
       "剧情"
     ],
@@ -702,7 +702,7 @@
   {
     "title": "大话西游之大圣娶亲 - A Chinese Odyssey Part Two - Cinderella",
     "cover": "https://p1.meituan.net/moviemachine/508056769092059fe43a611b949f27d14863831.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/大话西游之大圣娶亲 - A Chinese Odyssey Part Two - Cinderella.jpg",
+    "local_cover": "covers/cover_45.jpg",
     "categories": [
       "喜剧",
       "爱情",
@@ -719,7 +719,7 @@
   {
     "title": "新龙门客栈 - New Dragon Gate Inn",
     "cover": "https://p1.meituan.net/movie/7833126c8c21a11571bb52fbdece0acb811449.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/新龙门客栈 - New Dragon Gate Inn.jpg",
+    "local_cover": "covers/cover_46.jpg",
     "categories": [
       "动作",
       "爱情",
@@ -737,7 +737,7 @@
   {
     "title": "触不可及 - Intouchables",
     "cover": "https://p1.meituan.net/movie/1e700e53e4fe29dd5942381bb353c8532239179.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/触不可及 - Intouchables.jpg",
+    "local_cover": "covers/cover_47.jpg",
     "categories": [
       "剧情",
       "喜剧"
@@ -752,7 +752,7 @@
   {
     "title": "钢琴家 - The Pianist",
     "cover": "https://p0.meituan.net/movie/bcbe59fc51580317adf94537a61a1a26142090.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/钢琴家 - The Pianist.jpg",
+    "local_cover": "covers/cover_48.jpg",
     "categories": [
       "剧情",
       "音乐",
@@ -773,7 +773,7 @@
   {
     "title": "本杰明·巴顿奇事 - The Curious Case of Benjamin Button",
     "cover": "https://p0.meituan.net/movie/2526f77c650bf7cf3d5ee2dccdeac332244951.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/本杰明·巴顿奇事 - The Curious Case of Benjamin Button.jpg",
+    "local_cover": "covers/cover_49.jpg",
     "categories": [
       "剧情",
       "爱情",
@@ -789,7 +789,7 @@
   {
     "title": "倩女幽魂 - A Chinese Ghost Story",
     "cover": "https://p1.meituan.net/movie/96d98200d2afb4b87ff189f9c15b6545568339.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/倩女幽魂 - A Chinese Ghost Story.jpg",
+    "local_cover": "covers/cover_50.jpg",
     "categories": [
       "爱情",
       "奇幻",
@@ -806,7 +806,7 @@
   {
     "title": "哈利·波特与死亡圣器（下） - Harry Potter and the Deathly Hallows: Part 2",
     "cover": "https://p1.meituan.net/movie/bb0eca029cd25329776a4549b3fbe262924727.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/哈利·波特与死亡圣器（下） - Harry Potter and the Deathly Hallows_ Part 2.jpg",
+    "local_cover": "covers/cover_51.jpg",
     "categories": [
       "剧情",
       "悬疑",
@@ -824,7 +824,7 @@
   {
     "title": "甜蜜蜜 - Comrades: Almost a Love Story",
     "cover": "https://p1.meituan.net/movie/0b0d45b58946078dd24d4945dd6be3b51329411.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/甜蜜蜜 - Comrades_ Almost a Love Story.jpg",
+    "local_cover": "covers/cover_52.jpg",
     "categories": [
       "剧情",
       "爱情"
@@ -839,7 +839,7 @@
   {
     "title": "蝙蝠侠：黑暗骑士崛起 - The Dark Knight Rises",
     "cover": "https://p0.meituan.net/movie/f7f4b4099773268f8290ed033f49dc01377512.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/蝙蝠侠：黑暗骑士崛起 - The Dark Knight Rises.jpg",
+    "local_cover": "covers/cover_53.jpg",
     "categories": [
       "剧情",
       "动作",
@@ -858,7 +858,7 @@
   {
     "title": "鬼子来了 - Devils on the Doorstep",
     "cover": "https://p0.meituan.net/movie/34f9202c5e823f490ffec4c69d5d0028137395.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/鬼子来了 - Devils on the Doorstep.jpg",
+    "local_cover": "covers/cover_54.jpg",
     "categories": [
       "剧情",
       "战争"
@@ -873,7 +873,7 @@
   {
     "title": "无敌破坏王 - Wreck-It Ralph",
     "cover": "https://p1.meituan.net/movie/70a574550c4bb928dcc6a40641294785150838.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/无敌破坏王 - Wreck-It Ralph.jpg",
+    "local_cover": "covers/cover_55.jpg",
     "categories": [
       "喜剧",
       "动画",
@@ -890,7 +890,7 @@
   {
     "title": "致命魔术 - The Prestige",
     "cover": "https://p0.meituan.net/movie/83df1c541e6e0696e67ce7da81cb1e1a251258.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/致命魔术 - The Prestige.jpg",
+    "local_cover": "covers/cover_56.jpg",
     "categories": [
       "剧情",
       "悬疑",
@@ -907,7 +907,7 @@
   {
     "title": "神偷奶爸 - Despicable Me",
     "cover": "https://p0.meituan.net/movie/85c2bfba6025bfbfb53291ae5924c215308805.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/神偷奶爸 - Despicable Me.jpg",
+    "local_cover": "covers/cover_57.jpg",
     "categories": [
       "喜剧",
       "动画",
@@ -924,7 +924,7 @@
   {
     "title": "断背山 - Brokeback Mountain",
     "cover": "https://p0.meituan.net/movie/e71affe126eeb4f8bfcc738cbddeebc8288766.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/断背山 - Brokeback Mountain.jpg",
+    "local_cover": "covers/cover_58.jpg",
     "categories": [
       "剧情",
       "爱情",
@@ -941,7 +941,7 @@
   {
     "title": "怦然心动 - Flipped",
     "cover": "https://p0.meituan.net/movie/15f1ac49b6d1ff7b71207672993ed6901536456.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/怦然心动 - Flipped.jpg",
+    "local_cover": "covers/cover_59.jpg",
     "categories": [
       "剧情",
       "喜剧",
@@ -957,7 +957,7 @@
   {
     "title": "驯龙高手 - How to Train Your Dragon",
     "cover": "https://p0.meituan.net/movie/b0d97e4158b47d653d7a81d66f7dd3092146907.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/驯龙高手 - How to Train Your Dragon.jpg",
+    "local_cover": "covers/cover_60.jpg",
     "categories": [
       "喜剧",
       "动画",
@@ -974,7 +974,7 @@
   {
     "title": "飞屋环游记 - Up",
     "cover": "https://p0.meituan.net/movie/f9356a376358f1576da3263d998eca7a94624.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/飞屋环游记 - Up.jpg",
+    "local_cover": "covers/cover_61.jpg",
     "categories": [
       "剧情",
       "喜剧",
@@ -991,7 +991,7 @@
   {
     "title": "黑客帝国3：矩阵革命 - The Matrix Revolutions",
     "cover": "https://p0.meituan.net/movie/2e383b5f5f306f10f9f26d9f1c28cf1d825537.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/黑客帝国3：矩阵革命 - The Matrix Revolutions.jpg",
+    "local_cover": "covers/cover_62.jpg",
     "categories": [
       "动作",
       "科幻"
@@ -1007,7 +1007,7 @@
   {
     "title": "速度与激情5 - Fast Five",
     "cover": "https://p0.meituan.net/movie/845ce32778a1b3f258de089f91a3979b5766154.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/速度与激情5 - Fast Five.jpg",
+    "local_cover": "covers/cover_63.jpg",
     "categories": [
       "动作",
       "犯罪"
@@ -1022,7 +1022,7 @@
   {
     "title": "勇敢的心 - Braveheart",
     "cover": "https://p1.meituan.net/movie/f8e9d5a90224746d15dfdbd53d4fae3d209420.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/勇敢的心 - Braveheart.jpg",
+    "local_cover": "covers/cover_64.jpg",
     "categories": [
       "剧情",
       "动作",
@@ -1040,7 +1040,7 @@
   {
     "title": "三傻大闹宝莱坞 - 3 Idiots",
     "cover": "https://p1.meituan.net/movie/ca4a128a5a54d5b5e35ceba622636c831810197.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/三傻大闹宝莱坞 - 3 Idiots.jpg",
+    "local_cover": "covers/cover_65.jpg",
     "categories": [
       "剧情",
       "喜剧",
@@ -1057,7 +1057,7 @@
   {
     "title": "闻香识女人 - Scent of a Woman",
     "cover": "https://p1.meituan.net/movie/8d7b0b902afd4ec1a3dd7a9c6149463c187734.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/闻香识女人 - Scent of a Woman.jpg",
+    "local_cover": "covers/cover_66.jpg",
     "categories": [
       "剧情"
     ],
@@ -1071,7 +1071,7 @@
   {
     "title": "末代皇帝 - The Last Emperor",
     "cover": "https://p1.meituan.net/movie/21b9211eb1094af360842472018db634286646.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/末代皇帝 - The Last Emperor.jpg",
+    "local_cover": "covers/cover_67.jpg",
     "categories": [
       "剧情",
       "传记",
@@ -1091,7 +1091,7 @@
   {
     "title": "风之谷 - 風の谷のナウシカ",
     "cover": "https://p0.meituan.net/movie/4f9638ba234c3fb673f23a09968db875371576.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/风之谷 - 風の谷のナウシカ.jpg",
+    "local_cover": "covers/cover_68.jpg",
     "categories": [
       "动画",
       "奇幻",
@@ -1107,7 +1107,7 @@
   {
     "title": "大话西游之月光宝盒 - A Chinese Odyssey",
     "cover": "https://p0.meituan.net/movie/396266d8b711958841b3536a3fa7b868211445.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/大话西游之月光宝盒 - A Chinese Odyssey.jpg",
+    "local_cover": "covers/cover_69.jpg",
     "categories": [
       "喜剧",
       "爱情",
@@ -1125,7 +1125,7 @@
   {
     "title": "放牛班的春天 - Les choristes",
     "cover": "https://p0.meituan.net/movie/70de97ebb6b5251ecb7c3f6d7a782a7f189340.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/放牛班的春天 - Les choristes.jpg",
+    "local_cover": "covers/cover_70.jpg",
     "categories": [
       "剧情",
       "音乐"
@@ -1142,7 +1142,7 @@
   {
     "title": "当幸福来敲门 - The Pursuit of Happyness",
     "cover": "https://p1.meituan.net/movie/7d1d85610651dbe1c8687781a87d1008184950.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/当幸福来敲门 - The Pursuit of Happyness.jpg",
+    "local_cover": "covers/cover_71.jpg",
     "categories": [
       "剧情",
       "家庭",
@@ -1158,7 +1158,7 @@
   {
     "title": "幽灵公主 - もののけ姫",
     "cover": "https://p0.meituan.net/movie/a08f65e6cb50fab32df5da69ff116f593095363.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/幽灵公主 - もののけ姫.jpg",
+    "local_cover": "covers/cover_72.jpg",
     "categories": [
       "动画",
       "奇幻",
@@ -1174,7 +1174,7 @@
   {
     "title": "十二怒汉 - 12 Angry Men",
     "cover": "https://p0.meituan.net/movie/df15efd261060d3094a73ef679888d4f238149.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/十二怒汉 - 12 Angry Men.jpg",
+    "local_cover": "covers/cover_73.jpg",
     "categories": [
       "剧情"
     ],
@@ -1188,7 +1188,7 @@
   {
     "title": "搏击俱乐部 - Fight Club",
     "cover": "https://p0.meituan.net/movie/b3defc07dfaa1b6f5b74852ce38a3f8f242792.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/搏击俱乐部 - Fight Club.jpg",
+    "local_cover": "covers/cover_74.jpg",
     "categories": [
       "剧情",
       "动作",
@@ -1206,7 +1206,7 @@
   {
     "title": "疯狂原始人 - The Croods",
     "cover": "https://p1.meituan.net/movie/bc022b86345c643ca21d759166f77a553679589.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/疯狂原始人 - The Croods.jpg",
+    "local_cover": "covers/cover_75.jpg",
     "categories": [
       "喜剧",
       "动画",
@@ -1222,7 +1222,7 @@
   {
     "title": "阿凡达 - Avatar",
     "cover": "https://p1.meituan.net/movie/e540384dc6c9f63bdb27cc554588a77f44305.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/阿凡达 - Avatar.jpg",
+    "local_cover": "covers/cover_76.jpg",
     "categories": [
       "动作",
       "科幻",
@@ -1239,7 +1239,7 @@
   {
     "title": "哈尔的移动城堡 - ハウルの動く城",
     "cover": "https://p0.meituan.net/movie/0127b451d5b8f0679c6f81c8ed414bb2432442.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/哈尔的移动城堡 - ハウルの動く城.jpg",
+    "local_cover": "covers/cover_77.jpg",
     "categories": [
       "动画",
       "奇幻",
@@ -1255,7 +1255,7 @@
   {
     "title": "盗梦空间 - Inception",
     "cover": "https://p1.meituan.net/movie/d40efe1183f29d5900f5c60be3c8a89d339225.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/盗梦空间 - Inception.jpg",
+    "local_cover": "covers/cover_78.jpg",
     "categories": [
       "剧情",
       "科幻",
@@ -1273,7 +1273,7 @@
   {
     "title": "忠犬八公的故事 - Hachi: A Dog's Tale",
     "cover": "https://p0.meituan.net/movie/5f0a709378d6b567807aa9685610f818282136.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/忠犬八公的故事 - Hachi_ A Dog's Tale.jpg",
+    "local_cover": "covers/cover_79.jpg",
     "categories": [
       "剧情"
     ],
@@ -1288,7 +1288,7 @@
   {
     "title": "拯救大兵瑞恩 - Saving Private Ryan",
     "cover": "https://p1.meituan.net/movie/a2a287c77415dc1f85b04d288f7d63ab1089754.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/拯救大兵瑞恩 - Saving Private Ryan.jpg",
+    "local_cover": "covers/cover_80.jpg",
     "categories": [
       "剧情",
       "历史",
@@ -1304,7 +1304,7 @@
   {
     "title": "活着 - To Live",
     "cover": "https://p0.meituan.net/movie/4c41068ef7608c1d4fbfbe6016e589f7204391.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/活着 - To Live.jpg",
+    "local_cover": "covers/cover_81.jpg",
     "categories": [
       "剧情",
       "家庭",
@@ -1321,7 +1321,7 @@
   {
     "title": "机器人总动员 - WALL·E",
     "cover": "https://p0.meituan.net/movie/267dd2483f0fb57081474c00fbea38451415571.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/机器人总动员 - WALL·E.jpg",
+    "local_cover": "covers/cover_82.jpg",
     "categories": [
       "喜剧",
       "科幻",
@@ -1337,7 +1337,7 @@
   {
     "title": "天堂电影院 - Nuovo Cinema Paradiso",
     "cover": "https://p0.meituan.net/movie/76fc92cfa6c8f2959431b8aa604ef7ae126414.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/天堂电影院 - Nuovo Cinema Paradiso.jpg",
+    "local_cover": "covers/cover_83.jpg",
     "categories": [
       "剧情",
       "爱情"
@@ -1353,7 +1353,7 @@
   {
     "title": "指环王2：双塔奇兵 - The Lord of the Rings: The Two Towers",
     "cover": "https://p0.meituan.net/movie/02bb9fd161c05bad6089133098efcdb5546589.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/指环王2：双塔奇兵 - The Lord of the Rings_ The Two Towers.jpg",
+    "local_cover": "covers/cover_84.jpg",
     "categories": [
       "剧情",
       "动作",
@@ -1371,7 +1371,7 @@
   {
     "title": "指环王1：护戒使者 - The Lord of the Rings: The Fellowship of the Ring",
     "cover": "https://p1.meituan.net/movie/dd08154878aac7c8c649fe3eeb8ccd0a2498277.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/指环王1：护戒使者 - The Lord of the Rings_ The Fellowship of the Ring.jpg",
+    "local_cover": "covers/cover_85.jpg",
     "categories": [
       "剧情",
       "动作",
@@ -1389,7 +1389,7 @@
   {
     "title": "射雕英雄传之东成西就 - The Eagle Shooting Heroes",
     "cover": "https://p0.meituan.net/movie/86c5190ba1d1236093c13f2fe9ed8dd4150050.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/射雕英雄传之东成西就 - The Eagle Shooting Heroes.jpg",
+    "local_cover": "covers/cover_86.jpg",
     "categories": [
       "喜剧",
       "奇幻",
@@ -1406,7 +1406,7 @@
   {
     "title": "蝙蝠侠：黑暗骑士 - The Dark Knight",
     "cover": "https://p0.meituan.net/movie/09658109acfea0e248a63932337d8e6a4268980.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/蝙蝠侠：黑暗骑士 - The Dark Knight.jpg",
+    "local_cover": "covers/cover_87.jpg",
     "categories": [
       "剧情",
       "动作",
@@ -1425,7 +1425,7 @@
   {
     "title": "无间道 - Infernal Affairs",
     "cover": "https://p0.meituan.net/movie/606de8f394d40dbcbb9b87943fec71a2130408.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/无间道 - Infernal Affairs.jpg",
+    "local_cover": "covers/cover_88.jpg",
     "categories": [
       "剧情",
       "悬疑",
@@ -1441,7 +1441,7 @@
   {
     "title": "教父2 - The Godfather: Part Ⅱ",
     "cover": "https://p0.meituan.net/movie/bb1dee5e0b25889a2410211c1d5010ae190824.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/教父2 - The Godfather_ Part Ⅱ.jpg",
+    "local_cover": "covers/cover_89.jpg",
     "categories": [
       "剧情",
       "犯罪"
@@ -1456,7 +1456,7 @@
   {
     "title": "加勒比海盗 - Pirates of the Caribbean: The Curse of the Black Pearl",
     "cover": "https://p0.meituan.net/movie/b05b94b28eca53f325ae8d807fcd4ce01798036.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/加勒比海盗 - Pirates of the Caribbean_ The Curse of the Black Pearl.jpg",
+    "local_cover": "covers/cover_90.jpg",
     "categories": [
       "动作",
       "奇幻",
@@ -1472,7 +1472,7 @@
   {
     "title": "哈利·波特与魔法石 - Harry Potter and the Sorcerer's Stone",
     "cover": "https://p0.meituan.net/movie/d66b56b77b55aa3da5987b68948444c9106742.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/哈利·波特与魔法石 - Harry Potter and the Sorcerer's Stone.jpg",
+    "local_cover": "covers/cover_91.jpg",
     "categories": [
       "奇幻",
       "冒险"
@@ -1488,7 +1488,7 @@
   {
     "title": "指环王3：王者无敌 - The Lord of the Rings: The Return of the King",
     "cover": "https://p0.meituan.net/movie/932bdfbef5be3543e6b136246aeb99b8123736.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/指环王3：王者无敌 - The Lord of the Rings_ The Return of the King.jpg",
+    "local_cover": "covers/cover_92.jpg",
     "categories": [
       "剧情",
       "动作",
@@ -1506,7 +1506,7 @@
   {
     "title": "黑客帝国 - The Matrix",
     "cover": "https://p1.meituan.net/movie/ad974d3527879f00be2eec29135118163728582.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/黑客帝国 - The Matrix.jpg",
+    "local_cover": "covers/cover_93.jpg",
     "categories": [
       "动作",
       "科幻"
@@ -1522,7 +1522,7 @@
   {
     "title": "剪刀手爱德华 - Edward Scissorhands",
     "cover": "https://p1.meituan.net/movie/6a964e9cee699267053bd6a4bf6f2671195394.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/剪刀手爱德华 - Edward Scissorhands.jpg",
+    "local_cover": "covers/cover_94.jpg",
     "categories": [
       "剧情",
       "爱情",
@@ -1538,7 +1538,7 @@
   {
     "title": "春光乍泄 - Happy Together",
     "cover": "https://p0.meituan.net/movie/ae7245920d95c03765fe1615f3a1fe3865785.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/春光乍泄 - Happy Together.jpg",
+    "local_cover": "covers/cover_95.jpg",
     "categories": [
       "剧情",
       "爱情"
@@ -1555,7 +1555,7 @@
   {
     "title": "大闹天宫 - The Monkey King",
     "cover": "https://p1.meituan.net/movie/14a7b337e8063e3ce05a5993ed80176b74208.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/大闹天宫 - The Monkey King.jpg",
+    "local_cover": "covers/cover_96.jpg",
     "categories": [
       "动画",
       "奇幻"
@@ -1570,7 +1570,7 @@
   {
     "title": "天空之城 - 天空の城ラピュタ",
     "cover": "https://p1.meituan.net/movie/ba1ed511668402605ed369350ab779d6319397.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/天空之城 - 天空の城ラピュタ.jpg",
+    "local_cover": "covers/cover_97.jpg",
     "categories": [
       "动画",
       "奇幻",
@@ -1586,7 +1586,7 @@
   {
     "title": "音乐之声 - The Sound of Music",
     "cover": "https://p0.meituan.net/movie/ef6d7e040278f3d727306745e8df1af5246411.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/音乐之声 - The Sound of Music.jpg",
+    "local_cover": "covers/cover_98.jpg",
     "categories": [
       "剧情",
       "爱情",
@@ -1603,7 +1603,7 @@
   {
     "title": "辛德勒的名单 - Schindler's List",
     "cover": "https://p0.meituan.net/movie/b0d986a8bf89278afbb19f6abaef70f31206570.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/辛德勒的名单 - Schindler's List.jpg",
+    "local_cover": "covers/cover_99.jpg",
     "categories": [
       "剧情",
       "历史",
@@ -1619,7 +1619,7 @@
   {
     "title": "魂断蓝桥 - Waterloo Bridge",
     "cover": "https://p0.meituan.net/movie/58782fa5439c25d764713f711ebecd1e201941.jpg@464w_644h_1e_1c",
-    "local_cover": "covers/魂断蓝桥 - Waterloo Bridge.jpg",
+    "local_cover": "covers/cover_100.jpg",
     "categories": [
       "剧情",
       "爱情",
